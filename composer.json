@@ -1,0 +1,27 @@
+{
+    "name": "chichoyi/baidu-ocr",
+    "description": "baidu-ocr for laravel 5.*",
+    "type": "library",
+    "keywords": [
+        "baidu-ocr",
+        "laravel"
+    ],
+    "homepage": "https://github.com/chichoyi/baidu-ocr",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chichoyi",
+            "email": "chichoyi@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chichoyi\\BaiduOcr\\": "src"
+        }
+    },
+    "extra": {
+    }
+}
